@@ -16,7 +16,7 @@ bool fileExists (const string& this_file) {
 // Checks if a string ends with a specific suffix
 bool endsWith(const std::string& str, const std::string& suffix) {
     if (str.length() >= suffix.length()) {
-        return 0 == str.compare(str.length() - suffix.length(), suffix.length(), suffix);
+        return (0 == str.compare(str.length() - suffix.length(), suffix.length(), suffix));
     }
     return false;
 }

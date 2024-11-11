@@ -1,0 +1,3 @@
+/Users/connorpatchen/CLionProjects/Project2_2/cmake-build-debug/CMakeFiles/Project2_2.dir
+/Users/connorpatchen/CLionProjects/Project2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/connorpatchen/CLionProjects/Project2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
